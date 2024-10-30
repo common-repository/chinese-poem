@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+/* 诗词标题 */
+span.poem-title {
+	font-family: 文泉驿正黑, sans-serif;
+	font-size: 1.2em;
+	color: green;
+}
+/* 诗词作者 */
+span.poem-author {
+	font-family: 楷体, sans-serif;
+	font-size: 1.2em;
+	color: peru;
+}
+/* 诗词正文 */
+span.poem-content {
+	font-family: sans-serif;
+	font-size: 1.2em;
+	color: blue;
+}
